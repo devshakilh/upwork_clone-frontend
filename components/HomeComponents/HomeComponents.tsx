@@ -1,9 +1,14 @@
 import React from 'react';
+import Footer from '../Footer';
+import HomeSearch from '../HomeSearchB';
+import Navbar from '../Navbar/Navbar';
 
 const HomeComponents = () => {
     return (
         <div>
-            <h1 className="text-4xl font-bold text-center">This is home page</h1>
+            <Navbar />
+            <HomeSearch />
+            <Footer />
         </div>
     );
 };

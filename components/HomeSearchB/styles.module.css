@@ -1,0 +1,13 @@
+.bgHuman {
+    padding: 30px;
+    border-radius: 8px;
+    background-image: url('../../assests/find-talent-2x.jpg');
+    background-size: cover;
+    background-position: top;
+    padding: 25px;
+    letter-spacing: .6px;
+}
+
+.work {
+    line-height: 24px;
+}
